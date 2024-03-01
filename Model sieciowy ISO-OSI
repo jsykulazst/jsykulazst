@@ -1,2 +1,5 @@
 (Open System Interconnection reference Model)
-Model ten został stworzony
+Model ten został stworzony w celu normalizacji zasad komunikacji w sieci. Został on przygotowany z myślą o tworzeniu tak zwanego systemu otwartego, który nie bęzie należał do żadnej zamkniętej sieci.
+Model ten jest modelem poglądwoym(teoretycznym) i został podzielony na siedem warstw:
+7-warstwa aplikacji umożliwia komunikację z użytkownikiem (strony WWW), poczta elektroniczna
+6-
