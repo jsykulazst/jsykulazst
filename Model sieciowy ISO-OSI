@@ -1,5 +1,10 @@
 (Open System Interconnection reference Model)
 Model ten został stworzony w celu normalizacji zasad komunikacji w sieci. Został on przygotowany z myślą o tworzeniu tak zwanego systemu otwartego, który nie bęzie należał do żadnej zamkniętej sieci.
-Model ten jest modelem poglądwoym(teoretycznym) i został podzielony na siedem warstw:
-7-warstwa aplikacji umożliwia komunikację z użytkownikiem (strony WWW), poczta elektroniczna
-6-
+Model ten jest modelem poglądwoym (teoretycznym) i został podzielony na siedem warstw:
+7 - warstwa aplikacji - umożliwia komunikację z użytkownikiem (strony WWW), poczta elektroniczna
+6 - warstwa prezentacji - zajmuje się konwersją danych i definiowaniem formatów; odpowiada również za odpowiednie kodowanie danych (szyfrowanie) na urządzeniu źródłowym i ich odkodowaniem na urządzeniu docelowym
+5 - warstwa sesji
+4 - warstwa transportu
+3 - warstwa sieci
+2 - warstwa łącza danych
+1 - warstwa fizyczna
