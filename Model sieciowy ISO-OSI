@@ -6,6 +6,7 @@ Model ten jest modelem poglądwoym (teoretycznym) i został podzielony na siedem
 5 - warstwa sesji - zarządza sesjami urzytkowników korzystających np. ze stron WWW czy komunikacji video.
 4 - warstwa transportu - głównym zadaniem jest sprawna obsługa komunikacji pomiędzy urządzeniami. W warstwie tej dane dzielone są na mniejsze części (segmentowanie) a następnie opatrywane są dodatkowymi informacjami,
 m.in. nadawane są numery porządkowe które pozwalają na przydzielenie do właściwej aplikacji.
-3 - warstwa sieci
+3 - warstwa sieci - segmenty dancyh są wzbogacane o nagłówki sieci zawierające adres IP źródła i celu. W ten sposób tworzy sie pakiety danych. Głównym zadaniem warstwy sieciowej jest wybieranie najlepszej drogi od nadawcy do odbiorcy
+dla stworzonych w niej pakietów
 2 - warstwa łącza danych
 1 - warstwa fizyczna
