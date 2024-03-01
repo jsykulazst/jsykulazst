@@ -3,8 +3,8 @@ Model ten został stworzony w celu normalizacji zasad komunikacji w sieci. Zosta
 Model ten jest modelem poglądwoym (teoretycznym) i został podzielony na siedem warstw:
 7 - warstwa aplikacji - umożliwia komunikację z użytkownikiem (strony WWW), poczta elektroniczna
 6 - warstwa prezentacji - zajmuje się konwersją danych i definiowaniem formatów; odpowiada również za odpowiednie kodowanie danych (szyfrowanie) na urządzeniu źródłowym i ich odkodowaniem na urządzeniu docelowym
-5 - warstwa sesji
-4 - warstwa transportu
+5 - warstwa sesji - zarządza sesjami urzytkowników korzystających np. ze stron WWW czy komunikacji video.
+4 - warstwa transportu - 
 3 - warstwa sieci
 2 - warstwa łącza danych
 1 - warstwa fizyczna
