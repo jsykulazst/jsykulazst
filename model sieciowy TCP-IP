@@ -1,0 +1,5 @@
+Model sieciowy TCP/IP
+- warstwa aplikacji (warstwa sesji + prezentacji + aplikacji w modelu ISO) - zajmuje sie reprazentacją danych dla urzytkownika oraz ich kodowaniem
+- warstwa transportowa (warstwa transportowa w modelu ISO) - zapewnia komunikacje pomiędzy różnymi urządzeniami w sieci
+- warstwa internetu ( warstwa sieci w modelu ISO) - zapewnia najlepszą trasę dla przepływu pakietów
+- warstwa dostępu do sieci (warstwa fizyczna + łącza dancyh w modelu ISO) - kontroluje urządzenia fizyczne i media
