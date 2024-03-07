@@ -8,5 +8,8 @@ Model ten jest modelem poglądwoym (teoretycznym) i został podzielony na siedem
 m.in. nadawane są numery porządkowe które pozwalają na przydzielenie do właściwej aplikacji.
 3 - warstwa sieci - segmenty dancyh są wzbogacane o nagłówki sieci zawierające adres IP źródła i celu. W ten sposób tworzy sie pakiety danych. Głównym zadaniem warstwy sieciowej jest wybieranie najlepszej drogi od nadawcy do odbiorcy
 dla stworzonych w niej pakietów
-2 - warstwa łącza danych
-1 - warstwa fizyczna
+2 - warstwa łącza danych - głównym zadaniem jest wykrywanie i korygowanie błędów, na jakie narażona jest komunikacja w sieci. Dodatkowo zajmuje się podziałem wysyłanego pakietu na ramki które posiadają informache o architekturze sieci
+1 - warstwa fizyczna - koduje dane do postaci czystych bitów (0 i 1) i przesyła je poprzez medium transmisyjne do odpowiednich urządzeń
+
+
+enkapsulacja - przechodzenie (zamiana danch) z warstwy niższej do warstwy wyższej.
