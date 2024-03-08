@@ -2,5 +2,8 @@ DNS (Domain Name System) - jest używany do odwzorowania nazw w internecei na ad
 HTTP (Hypertext Transfer Protocol) - używany do przesyłania plików hipertekstowych, czyli stron www
 HTTPS (Hypertext Transfer Protocol Secure) - szyfrowana wersja protokołu HTTP
 SMTP (Simple Mail Transfer Protocol) - służy do wysyłania wiadomości poczty elektronicznej wraz z załącznikami 
-POP3 (Post Office Protocol) - 
-IMAP (Internet Message Access Protocol) -
+POP3 (Post Office Protocol) - służy do odbioru poczty elektronicznej - stary
+IMAP (Internet Message Access Protocol) - używa sie go do odbioru poczty elektronicznej - nowy
+telnet (Telecommunication Network) - protokół do obsługi terminala zdalnego urządzenia
+FTP (Fire Transfer Protocol) - służy do przesyłania plików między klientem a serwerem FTP
+SSH (Secure Shell) - protokół którego używa się do emulacji(symulowania dizałania) terminala sieciowego
