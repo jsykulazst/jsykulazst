@@ -1,2 +1,4 @@
 urządzenia niezbędne do obsługi i funkcjonowania sieci możemy podzielić na 3 grupy:
-- urządzenia transmisji
+- urządzenia transmisji - są wykorzystywane i przeznaczone do transportu sygnału biegnącego przez sieć (przewód sieciowy tzw skrętka, światłowód)
+- urządzenia dostępu - odpowiedzialne za przygotowywanie danych do przesyłu w sieci (karta sieciowa, switch, router)
+- urządzenia wzmacniania - przesyłanych sygnałów (ekspander zasięgu wifi)
